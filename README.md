@@ -16,10 +16,10 @@ Gets you the information of top movies from IMDB.
 - Install modules. `pip install -r requirements.txt`
 - Run the script and Add the url (any one from above 3) as first argument. Add second argument which is the count (1, 2, 3 ...). **Sample Request**:
 
-`python imdb_chart_fetcher.py 'https://www.imdb.com/india/top-rated-indian-movies' 10`
+`python imdb_chart_fetcher.py 'https://www.imdb.com/india/top-rated-indian-movies' 3`
 
 > OR run the SHELL Script:
-> `imdb_chart_fetcher.sh 'https://www.imdb.com/india/top-rated-indian-movies' 10`
+> `imdb_chart_fetcher.sh 'https://www.imdb.com/india/top-rated-indian-movies' 3`
 
 This returns the following response.
 
