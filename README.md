@@ -1,14 +1,14 @@
-## IMDB CHART FETCHER
+## :memo: IMDB CHART FETCHER
 
 Gets you the information of top movies from IMDB.
 
-### Tested URLs
+### :pushpin: Tested URLs
 
 1. https://www.imdb.com/india/top-rated-indian-movies
 2. https://www.imdb.com/india/top-rated-tamil-movies
 3. https://www.imdb.com/india/top-rated-telugu-movies
 
-## Steps to RUN Locally. (Tested on Pyhton 3.6.0 and PIP 9.0.1)
+## :bookmark: Steps to RUN Locally. (Tested on Pyhton 3.6.0 and PIP 9.0.1)
 
 - Clone the repo, and browse in it.
 - Create a Virtual Environment. `py -m venv env`.
