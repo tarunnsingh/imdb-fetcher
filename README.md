@@ -1,4 +1,4 @@
-## :memo: IMDB CHART FETCHER
+## :memo: IMDB Chart Fetcher
 
 Gets you the information of top movies from IMDB.
 
