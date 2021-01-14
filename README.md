@@ -1,3 +1,5 @@
+<img src="https://m.media-amazon.com/images/G/01/IMDb/brand/IMDb_JobSiteBanner_1920x425._SL1280_.jpg"/>  
+
 ## :memo: IMDB Chart Fetcher
 
 Gets you the information of top movies from IMDB.
